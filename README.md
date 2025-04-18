@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m looking to collaborate on	Any team projects, open-source, startups	<br>I’m looking for help with	Any skill or project where you need help	<br>How to reach me:	raajan.works@gmail.com<br>Fun fact : I write code like a poet – logic with rhythm, bugs with patience.
+🌟 Hi, I’m Rajan Poudel — a creator at heart, coder by craft.
+
+I don’t just write code. I shape ideas into products, bugs into breakthroughs, and projects into possibilities.
+
+🧠 Always exploring:
+• Open-source collaborations  
+• Impact-driven team projects  
+• Startup ideas with spark  
+
+💡 Need a hand or a mind?
+If you’ve got a vision, I’ve got the passion.  
+Let’s build something that matters.
+
+📩 Reach me: raajan.works@gmail.com
+
+🎙 Fun Fact:  
+I write code like a poet – rhythm in logic, patience in chaos.
 
 
 ## 🌐 Socials:
