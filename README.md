@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on	Any team projects, open-source, startups	<br>I’m looking for help with	Any skill or project where you need help	<br>How to reach me	raajan.works@gmail.com<br>Fun fact	I write code like a poet – logic with rhythm, bugs with patience.
+I’m looking to collaborate on	Any team projects, open-source, startups	<br>I’m looking for help with	Any skill or project where you need help	<br>How to reach me:	raajan.works@gmail.com<br>Fun fact : I write code like a poet – logic with rhythm, bugs with patience.
 
 
 ## 🌐 Socials:
