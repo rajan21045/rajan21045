@@ -29,7 +29,7 @@ No hype. Just honest code, thoughtful design, and the grit to finish what I star
 
 
 
-"🌘 A Quiet Truth:"
+🌘 A Quiet Truth:
 
 I treat every project like a moonshot — even in the dark, I build as if it’s destined to shine.
 
