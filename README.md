@@ -1,19 +1,38 @@
 # 💫 About Me:
-🌟 Hi, I’m Rajan Poudel — a creator at heart, coder by craft.  
-I don’t just write code. I shape ideas into products, bugs into breakthroughs, and projects into possibilities.
 
-🧠 Always exploring:  
-• Open-source collaborations  
-• Impact-driven team projects  
-• Startup ideas with spark  
 
-💡 Need a hand or a mind? If you’ve got a vision, I’ve got the passion.  
-Let’s build something that matters.
+### 👋 Hi, I’m Rajan Poudel
+A quiet builder of bold ideas that speak for themselves.
 
-📩 Reach me: raajan.works@gmail.com  
 
-🎙 Fun Fact:  
-I write code like a poet – rhythm in logic, patience in chaos.
+🎯 **Who I Am**  
+A developer who treats logic like language and every project like a story.  
+From debugging chaos to designing clean architecture — I’m all in.
+
+### 🧠 What Drives Me
+
+- Building meaningful tools, not just shiny apps
+- Clean code that speaks for itself
+- UI/UX with empathy at its core
+- Teams that move with trust, curiosity, and shared vision
+- Projects that combine creativity + logic = impact
+
+
+
+### 💭 Some chase trends. I chase clarity.
+
+
+No hype. Just honest code, thoughtful design, and the grit to finish what I start.
+
+
+📬 Drop a thought: [raajan.works@gmail.com](mailto:raajan.works@gmail.com)
+
+
+
+"🌘 A Quiet Truth:"
+
+I treat every project like a moonshot — even in the dark, I build as if it’s destined to shine.
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/prabinpoudel2)
