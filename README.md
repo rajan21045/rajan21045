@@ -9,24 +9,6 @@ A quiet builder of bold ideas that speak for themselves.
 A developer who treats logic like language and every project like a story.  
 From debugging chaos to designing clean architecture — I’m all in.
 
-### 🧠 What Drives Me
-
-- Building meaningful tools, not just shiny apps
-- Clean code that speaks for itself
-- UI/UX with empathy at its core
-- Teams that move with trust, curiosity, and shared vision
-- Projects that combine creativity + logic = impact
-
-
-
-### 💭 Some chase trends. I chase clarity.
-
-
-No hype. Just honest code, thoughtful design, and the grit to finish what I start.
-
-
-📬 Drop a thought: [raajan.works@gmail.com](mailto:raajan.works@gmail.com)
-
 
 
 🌘 A Quiet Truth:
