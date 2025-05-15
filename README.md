@@ -2,6 +2,7 @@
 
 
 ### 👋 Hi, I’m Rajan Poudel
+BCA Student | Developer | Designer
 A quiet builder of bold ideas that speak for themselves.
 
 
