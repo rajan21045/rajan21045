@@ -21,11 +21,12 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ## 🚀 Projects
 
-- **[Book Management System (Java + Swing + MySQL)](https://github.com/rajan21045/book-management-system)**  
+- **[Java Swing Book Management Application (Java + Swing + MySQL)](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application for managing books, featuring CRUD operations and database integration.
 
-- **[Food Ordering Website (HTML + CSS)](https://github.com/rajan21045/food-ordering-site)**  
+- **[Food Ordering System (HTML + CSS)](https://github.com/rajan21045/Food-Ordering-System)**  
   A responsive front-end design for a food delivery platform with a modern UI layout.
+
 
 ---
 
