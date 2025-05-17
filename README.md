@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rajan Poudel
 
 🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast<br>
-
 Focused on learning and applying clean coding practices and thoughtful design.<br>
 Driven by creating efficient solutions and engaging digital experiences.
 
@@ -27,6 +26,8 @@ Driven by creating efficient solutions and engaging digital experiences.
 - **[Food Ordering System (HTML + CSS)](https://github.com/rajan21045/Food-Ordering-System)**  
   A responsive front-end design for a food delivery platform with a modern UI layout.
 
+- **[TextToSpeech-GUI (JavaFX + FreeTTS)](https://github.com/rajan21045/TextToSpeech-GUI)**  
+  A JavaFX desktop application that converts text into speech using FreeTTS. It features a clean UI, speech playback, and modular structure.
 
 ---
 
