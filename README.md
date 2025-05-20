@@ -1,9 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Hi%2C+I'm+Rajan+Poudel;Aspiring+Developer+%7C+UI%2FUX+Enthusiast;Clean+Code+%2B+Creative+Design)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajan21045&color=blue&style=flat-square)
-
----
-
 # 👋 Hi, I'm Rajan Poudel
 
 🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast  
@@ -26,9 +20,14 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ## 🚀 Projects
 
-[![Java Project](https://img.shields.io/badge/Java-Swing--App-orange)](https://github.com/rajan21045/Java-Swing-Book-Management-Application)  
-[![Food Ordering](https://img.shields.io/badge/Food--Ordering--System-HTML%2FCSS-green)](https://github.com/rajan21045/Food-Ordering-System)  
-[![Text to Speech](https://img.shields.io/badge/Text--to--Speech-JavaFX-yellow)](https://github.com/rajan21045/TextToSpeech-GUI)
+- **[Java Swing Book Management Application (Java + Swing + MySQL)](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
+  A desktop application for managing books, featuring CRUD operations and database integration.
+
+- **[Food Ordering System (HTML + CSS)](https://github.com/rajan21045/Food-Ordering-System)**  
+  A responsive front-end design for a food delivery platform with a modern UI layout.
+
+- **[TextToSpeech-GUI (JavaFX + FreeTTS)](https://github.com/rajan21045/TextToSpeech-GUI)**  
+  A JavaFX desktop application that converts text into speech using FreeTTS. It features a clean UI, speech playback, and modular structure.
 
 ---
 
@@ -41,17 +40,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🛠️ Dev Tools
-
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat&logo=mysql&logoColor=white)
-
----
-
 ### 🖌️ Design Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -61,23 +49,11 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajan21045&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📈 GitHub Stats
 
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajan21045&theme=dark&hide_border=true)
-
----
-
-## 📊 Contribution Graph
-
-![Rajan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=github-compact&hide_border=true)
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark)
 
 ---
 
