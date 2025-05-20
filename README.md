@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Rajan Poudel
 
-🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast<br>
-
-Focused on learning and applying clean coding practices and thoughtful design.<br>
+🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast  
+Focused on learning and applying clean coding practices and thoughtful design.  
 Driven by creating efficient solutions and engaging digital experiences.
-
 
 ---
 
@@ -18,7 +16,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/prabinpoudel2)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rajanpoudel7024)
 
-
 ---
 
 ## 🚀 Projects
@@ -31,7 +28,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 - **[TextToSpeech-GUI (JavaFX + FreeTTS)](https://github.com/rajan21045/TextToSpeech-GUI)**  
   A JavaFX desktop application that converts text into speech using FreeTTS. It features a clean UI, speech playback, and modular structure.
-
 
 ---
 
@@ -51,17 +47,20 @@ Driven by creating efficient solutions and engaging digital experiences.
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-
 ---
 
 ## 📈 GitHub Stats
 
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=rajan21045&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+<!-- Optional: Activity Graph -->
+<!-- 
+![Rajan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=github-compact&hide_border=true)
+-->
 
 ---
 
