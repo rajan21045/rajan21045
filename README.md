@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rajan Poudel
 
 🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast  
+
+
 Focused on learning and applying clean coding practices and thoughtful design.  
 Driven by creating efficient solutions and engaging digital experiences.
 
@@ -51,12 +53,12 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ## 📈 GitHub Stats
 
+
 ![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
 
----
-
-## 📊 GitHub Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark)
 
