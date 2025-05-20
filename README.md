@@ -58,9 +58,9 @@ Driven by creating efficient solutions and engaging digital experiences.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rajan21045&theme=dark&hide_border=true)
 
 <!-- Optional: Contribution Activity Graph -->
-<!-- 
+
 ![Rajan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=github-compact&hide_border=true)
--->
+
 
 ---
 
