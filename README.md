@@ -55,9 +55,9 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=rajan21045&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajan21045&theme=dark&hide_border=true)
 
-<!-- Optional: Activity Graph -->
+<!-- Optional: Contribution Activity Graph -->
 <!-- 
 ![Rajan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=github-compact&hide_border=true)
 -->
