@@ -55,7 +55,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajan21045&theme=dark&hide_border=true)
 
 <!-- Optional: Contribution Activity Graph -->
 
