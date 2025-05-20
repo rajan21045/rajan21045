@@ -17,20 +17,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 
 ---
-
-## 🚀 Projects
-
-- **[Java Swing Book Management Application (Java + Swing + MySQL)](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
-  A desktop application for managing books, featuring CRUD operations and database integration.
-
-- **[Food Ordering System (HTML + CSS)](https://github.com/rajan21045/Food-Ordering-System)**  
-  A responsive front-end design for a food delivery platform with a modern UI layout.
-
-- **[TextToSpeech-GUI (JavaFX + FreeTTS)](https://github.com/rajan21045/TextToSpeech-GUI)**  
-  A JavaFX desktop application that converts text into speech using FreeTTS. It features a clean UI, speech playback, and modular structure.
-
----
-
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,6 +34,22 @@ Driven by creating efficient solutions and engaging digital experiences.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
+
+
+
+## 🚀 Projects
+
+- **[Java Swing Book Management Application (Java + Swing + MySQL)](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
+  A desktop application for managing books, featuring CRUD operations and database integration.
+
+- **[Food Ordering System (HTML + CSS)](https://github.com/rajan21045/Food-Ordering-System)**  
+  A responsive front-end design for a food delivery platform with a modern UI layout.
+
+- **[TextToSpeech-GUI (JavaFX + FreeTTS)](https://github.com/rajan21045/TextToSpeech-GUI)**  
+  A JavaFX desktop application that converts text into speech using FreeTTS. It features a clean UI, speech playback, and modular structure.
+
+---
+
 
 ## 📈 GitHub Stats
 
