@@ -2,7 +2,6 @@
 
 🎓 BCA Student | Aspiring Developer | UI/UX Enthusiast  
 
-
 Focused on learning and applying clean coding practices and thoughtful design.  
 Driven by creating efficient solutions and engaging digital experiences.
 
