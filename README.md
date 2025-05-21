@@ -62,10 +62,6 @@ Driven by creating efficient solutions and engaging digital experiences.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark)
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajan21045&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-
 ---
 
 ## ✨ Daily Dev Quote
