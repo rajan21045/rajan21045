@@ -62,7 +62,7 @@ Driven to create efficient solutions and engaging digital experiences.
 
 ![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=rajan21045&theme=dark&v=2)
+
 
 ---
 
