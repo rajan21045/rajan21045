@@ -67,7 +67,8 @@ Driven to create efficient solutions and engaging digital experiences.
 
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=dark&hide_border=false)
+user=rajan21045&theme=dark
 
 
 ---
