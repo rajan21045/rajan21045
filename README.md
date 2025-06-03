@@ -68,7 +68,7 @@ Driven to create efficient solutions and engaging digital experiences.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajan21045&theme=dark&hide_border=false)
 br/>
- ![](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=holi&hide_border=false)<br/>
+ ![](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)<br/>
 
 ---
 
