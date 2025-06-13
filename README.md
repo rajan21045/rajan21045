@@ -52,9 +52,6 @@ Driven to create efficient solutions and engaging digital experiences.
 - **[Food Ordering System](https://github.com/rajan21045/Food-Ordering-System)**  
   A responsive front-end food delivery UI made with HTML & CSS.
 
-- **[TextToSpeech-GUI](https://github.com/rajan21045/TextToSpeech-GUI)**  
-  A JavaFX GUI that converts text to speech using FreeTTS.
-
 ---
 
 ## 📊 GitHub Stats
