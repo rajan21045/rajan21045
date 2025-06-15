@@ -46,11 +46,12 @@ Driven to create efficient solutions and engaging digital experiences.
 
 ## 🚀 Projects
 
+- **[Food Ordering System](https://github.com/rajan21045/Food-Ordering-System)**  
+  A responsive front-end food delivery UI made with HTML & CSS.
+
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application to manage books using Java Swing and MySQL with full CRUD functionality.
 
-- **[Food Ordering System](https://github.com/rajan21045/Food-Ordering-System)**  
-  A responsive front-end food delivery UI made with HTML & CSS.
 
 ---
 
