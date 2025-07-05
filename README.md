@@ -6,7 +6,7 @@ Focused on learning and applying clean coding practices and thoughtful design.
 Driven to create efficient solutions and engaging digital experiences.
 
 ---
-
+ 
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
