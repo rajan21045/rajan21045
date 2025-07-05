@@ -13,7 +13,7 @@ Driven to create efficient solutions and engaging digital experiences.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajan_4421)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabin-poudel-964576327)
 
----
+--- 
 
 ## 🧠 Coding Profiles
 
