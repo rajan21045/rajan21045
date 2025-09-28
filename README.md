@@ -52,7 +52,7 @@ Driven to create efficient solutions and engaging digital experiences.
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application to manage books using Java Swing and MySQL with full CRUD functionality.
 
-
+    
 ---
 
 ## 📊 GitHub Stats
