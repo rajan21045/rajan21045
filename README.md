@@ -2,7 +2,7 @@
 
 🎓 BCA Student at Lumbini ICT Campus
  
-💻 Aspiring Developer | 🎨 Graphics & UI/UX Designer
+💻 Aspiring Developer | 🎨 UI/UX Designer
 
 ---
  
