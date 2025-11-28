@@ -3,8 +3,6 @@
 🎓 BCA Student at Lumbini ICT Campus  
 💻 Aspiring Developer | 🎨 UI/UX Designer
 
----
-
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
@@ -12,15 +10,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajan_21045/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrajanpoudel/)
 
----
-
 ## 🧠 Coding Profiles
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajan_21045/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/raajan_works)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajan21045/)
-
----
 
 ## 💻 Tech Stack
 
@@ -32,16 +26,12 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
 ## 🖌️ Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
----
 
 ## 🚀 Projects
 
@@ -51,9 +41,7 @@
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application built with Java Swing & MySQL (CRUD).
 
----
-
-## 📊 GitHub Metrics (ALWAYS WORKS — No Errors)
+## 📊 GitHub Metrics
 
 ![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
@@ -63,14 +51,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=react-dark)
 
----
-
 ## ✨ Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<!--
-**rajan21045/rajan21045** is a ✨ special ✨ repository because this `README.md` appears on your GitHub profile.
--->
