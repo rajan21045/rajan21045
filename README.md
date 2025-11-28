@@ -55,12 +55,13 @@
 
 ## 📊 GitHub Metrics (ALWAYS WORKS — No Errors)
 
-> 🔥 More powerful, stable, and detailed than GitHub Stats cards  
-> ⚡ Works every time (no broken images, no rate limits)
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
-Add this to your README:
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/rajan21045?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKathmandu)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=react-dark)
 
 ---
 
