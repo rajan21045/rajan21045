@@ -1,31 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rajan Poudel</h1>
-<h3 align="center">🎓 BCA Student at Lumbini ICT Campus 💻 Aspiring Developer | 🎨 UI/UX Designer</h3>
+# 👋 Hi, I'm Rajan Poudel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan21045&label=Profile%20views&color=0e75b6&style=flat" alt="rajan21045" /> </p>
+🎓 BCA Student at Lumbini ICT Campus  
+💻 Aspiring Developer | 🎨 UI/UX Designer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajan21045" alt="rajan21045" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/rajan_4421" target="blank"><img src="https://img.shields.io/twitter/follow/rajan_4421?logo=twitter&style=for-the-badge" alt="rajan_4421" /></a> </p>
+## 🌐 Connect with Me
 
-- 📫 How to reach me **raajan.works@gmail.com**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajan_4421)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajan_21045/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrajanpoudel/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajan_4421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajan_4421" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamrajanpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrajanpoudel" height="30" width="40" /></a>
-<a href="https://fb.com/rajan21045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajan21045" height="30" width="40" /></a>
-<a href="https://instagram.com/rajan_21045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajan_21045" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajan_21045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajan_21045" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raajan_works" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raajan_works" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajan21045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajan21045" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajan_21045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajan_21045" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 🧠 Coding Profiles
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan21045&show_icons=true&locale=en&layout=compact" alt="rajan21045" /></p>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajan_21045/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/raajan_works)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajan21045/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&locale=en" alt="rajan21045" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&" alt="rajan21045" /></p>
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 🖌️ Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- **[Food Ordering System](https://github.com/rajan21045/Food-Ordering-System)**  
+  A responsive front-end food delivery UI made with HTML & CSS.
+
+- **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
+  A desktop application built with Java Swing & MySQL (CRUD).
+
+---
+
+## 📊 GitHub Metrics (ALWAYS WORKS — No Errors)
+
+> 🔥 More powerful, stable, and detailed than GitHub Stats cards  
+> ⚡ Works every time (no broken images, no rate limits)
+
+Add this to your README:
+
+![Metrics](https://metrics.lecoq.io/rajan21045?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKathmandu)
+
+---
+
+## ✨ Daily Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<!--
+**rajan21045/rajan21045** is a ✨ special ✨ repository because this `README.md` appears on your GitHub profile.
+-->
