@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&theme=dark)
 
