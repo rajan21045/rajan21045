@@ -1,21 +1,19 @@
 # 👋 Hi, I'm Rajan Poudel
- 
-🎓 BCA Student at Lumbini ICT Campus
- 
-💻 Aspiring Developer | 🎨 UI/UX Designer
+
+🎓 BCA Student at Lumbini ICT Campus  
+💻 Aspiring Developer | 🎨 UI/UX Designer  
 
 ---
 
 ## 🌐 Connect with Me
- 
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajan_4421)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajan_21045/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrajanpoudel/)
 
+---
 
---- 
-  
 ## 🧠 Coding Profiles
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajan_21045/)
@@ -42,7 +40,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
- 
+
 ---
 
 ## 🚀 Projects
@@ -53,28 +51,30 @@
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application to manage books using Java Swing and MySQL with full CRUD functionality.
 
-    
 ---
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark
+### 🔥 Overall Stats  
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&theme=dark)
+### 🧩 Top Languages  
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
 
+### 🔥 GitHub Streak  
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
 
-![Prabin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=react-dark)
-
-
+### 📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=react-dark)
 
 ---
 
 ## ✨ Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- 
+
 ---
+
 <!--
-**rajan21045/rajan21045** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rajan21045/rajan21045** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
