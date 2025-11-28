@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajan Poudel
 
 🎓 BCA Student at Lumbini ICT Campus  
-💻 Aspiring Developer | 🎨 UI/UX Designer  
+💻 Aspiring Developer | 🎨 UI/UX Designer
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🖌️ Design Tools
+## 🖌️ Design Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
@@ -49,23 +49,18 @@
   A responsive front-end food delivery UI made with HTML & CSS.
 
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
-  A desktop application to manage books using Java Swing and MySQL with full CRUD functionality.
+  A desktop application built with Java Swing & MySQL (CRUD).
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics (ALWAYS WORKS — No Errors)
 
-### 🔥 Overall Stats  
-![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+> 🔥 More powerful, stable, and detailed than GitHub Stats cards  
+> ⚡ Works every time (no broken images, no rate limits)
 
-### 🧩 Top Languages  
-![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
+Add this to your README:
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
-
-### 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajan21045&theme=react-dark)
+![Metrics](https://metrics.lecoq.io/rajan21045?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKathmandu)
 
 ---
 
@@ -76,5 +71,5 @@
 ---
 
 <!--
-**rajan21045/rajan21045** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+**rajan21045/rajan21045** is a ✨ special ✨ repository because this `README.md` appears on your GitHub profile.
 -->
