@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
 
