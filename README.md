@@ -45,7 +45,7 @@
 
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&langs_count=8)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
 
