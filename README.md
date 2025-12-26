@@ -2,7 +2,7 @@
 
 🎓 BCA Student at Lumbini ICT Campus  
 💻 Aspiring Developer | 🎨 UI/UX Designer
-  
+
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
@@ -45,7 +45,7 @@
 
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&theme=tokyonight)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
 
