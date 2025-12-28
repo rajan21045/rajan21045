@@ -43,13 +43,14 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&theme=tokyonight)
+![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajan21045&theme=dark)
 
-[![Rajan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=react-dark&hide_border=true&custom_title=Rajan%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rajan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## ✨ Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
