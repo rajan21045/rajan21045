@@ -49,7 +49,7 @@
 
 ![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajan21045&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajan21045&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 [![Rajan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
