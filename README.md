@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Rajan Poudel
- 
-🎓 BCA Student at Lumbini ICT Campus  
-💻 Aspiring Developer | 🎨 UI/UX Designer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=100&section=header&text=Rajan%20Poudel&fontSize=38&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20|%20Aspiring%20Developer%20|%20UI/UX%20Designer&descSize=14&descAlignY=72" width="100%"/>
+</div>
+
+---
+
  
 ## 🌐 Connect with Me
 
