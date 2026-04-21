@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=100&section=header&text=Rajan%20Poudel&fontSize=38&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20|%20Aspiring%20Developer%20|%20UI/UX%20Designer&descSize=14&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=RAJAN%20POUDEL&fontSize=52&fontColor=e8d5b7&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20·%20Developer%20·%20UI/UX%20Designer&descSize=14&descAlignY=68&descColor=8a8a9a" width="100%"/>
 </div>
+<br/>
 
 ---
 
@@ -62,3 +63,8 @@
 ## ✨ Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
+</div>
