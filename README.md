@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=RAJAN%20POUDEL&fontSize=52&fontColor=e8d5b7&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20·%20Developer%20·%20UI/UX%20Designer&descSize=14&descAlignY=68&descColor=8a8a9a" width="100%"/>
 </div>
 <br/>
