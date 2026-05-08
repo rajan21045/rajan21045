@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=RAJAN%20POUDEL&fontSize=52&fontColor=e8d5b7&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20·%20Developer%20·%20UI/UX%20Designer&descSize=14&descAlignY=68&descColor=8a8a9a" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=BCA+Student,+Developer+And+UI/UX+Designer;Open+To+Opportunities+%26+Collaborations)](https://git.io/typing-svg)
-
 </div>
 
 ---
