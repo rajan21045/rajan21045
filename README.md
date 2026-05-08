@@ -1,18 +1,28 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=RAJAN%20POUDEL&fontSize=52&fontColor=e8d5b7&animation=fadeIn&fontAlignY=42&desc=BCA%20Student%20·%20Developer%20·%20UI/UX%20Designer&descSize=14&descAlignY=68&descColor=8a8a9a" width="100%"/>
-</div>
+
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=BCA+Student,+Developer+And+UI/UX+Designer;Open+To+Opportunities+%26+Collaborations)](https://git.io/typing-svg)
+
+</div>
+
+---
+ 
+## 🌐 Connect with Me
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=firefox&logoColor=white)](https://rajanpoudel.info.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrajanpoudel/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajan_4421)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajan_21045/)
+
+</div>
 
 ---
 
- 
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raajan.works@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajan_4421)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajan_21045/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrajanpoudel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=firefox&logoColor=white)](https://rajanpoudel.info.np)
 
 ## 🧠 Coding Profiles
  
@@ -52,13 +62,13 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=dark&hide_border=true)
+<img height="260" src="https://github-readme-stats-mirror.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
 ![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajan21045&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-[![Rajan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ✨ Daily Dev Quote
 
