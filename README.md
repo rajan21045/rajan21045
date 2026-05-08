@@ -25,10 +25,16 @@
 
 
 ## 🧠 Coding Profiles
- 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajan_21045/)
+
+<div align="left">
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/raajan_works)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajan21045/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rajan_21045/)
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -66,7 +72,7 @@
 
 ![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajan21045&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajan21045&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
