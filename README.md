@@ -46,6 +46,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
 
 ## 🖌️ Design Tools
 
@@ -53,6 +54,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+--- 
 
 ## 🚀 Projects
 
@@ -62,21 +65,27 @@
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application built with Java Swing & MySQL (CRUD).
 
+---
+
 ## 📊 GitHub Metrics
 
-<img src="https://github-readme-stats-rajan21045.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true" />
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 
-<img src="https://github-readme-stats-rajan21045.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajan21045&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img width="500" src="https://streak-stats.demolab.com?user=rajan21045&theme=github-dark-blue&hide_border=true" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true" />
+
+---
+
 
 ## ✨ Daily Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
 </div>
