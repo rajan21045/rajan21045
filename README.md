@@ -19,7 +19,6 @@
 
 ---
 
-
 ## 🧠 Coding Profiles
 
 <div align="left">
