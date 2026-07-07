@@ -68,13 +68,24 @@
 
 ## 📊 GitHub Metrics
 
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+</p>
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
+</p>
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<p>
+  <img width="100%" src="https://streak-stats.demolab.com?user=rajan21045&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<img width="500" src="https://streak-stats.demolab.com?user=rajan21045&theme=github-dark-blue&hide_border=true" />
+<p>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajan21045&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
 
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true" />
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
