@@ -80,10 +80,6 @@
 </p>
 
 <p>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rajan21045&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-<p>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true" />
 </p>
 
