@@ -64,23 +64,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajan21045&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=rajan21045&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajan21045&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 ## ✨ Daily Dev Quote
 
  
