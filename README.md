@@ -64,15 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rajan21045&theme=tokyonight&show_icons=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajan21045&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan21045&layout=compact&theme=tokyonight)
-
----
 
 ## ✨ Daily Dev Quote
 
